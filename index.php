@@ -48,8 +48,8 @@ Backgammon Scoreboard
       <tfoot class="thead-default">
       <tr>
         <th>Sum</th>
-        <th>0</td>
-        <th>10</td>
+        <th>1</td>
+        <th>13</td>
 
       </tr>
       </tfoot>
